@@ -31,6 +31,3 @@ Evaluasi model dilakukan dengan menggunakan data uji untuk memastikan model dapa
 
 ## 9. Optimasi Model
 Optimasi model dilakukan dengan memilih model yang tepat, menyesuaikan hyperparameter, dan meningkatkan efisiensi agar model dapat menangani data lebih baik. **Cross-validation** digunakan untuk memastikan model dapat bekerja dengan baik pada data yang berbeda.
-
-## 10. Kesimpulan
-Setelah model dilatih dan dioptimalkan, penting untuk terus memantau kinerjanya dan melakukan evaluasi berkelanjutan untuk memastikan model tetap efektif pada data baru yang masuk.

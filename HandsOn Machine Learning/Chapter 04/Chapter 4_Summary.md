@@ -1,6 +1,4 @@
-# Chapter 4: Training Models - Rangkuman
-
-Chapter ini membahas teknik-teknik yang digunakan untuk melatih model machine learning secara efektif. Berikut adalah poin-poin penting yang dibahas:
+# Chapter 4: Training Models
 
 ## 1. Training Model
 Pelatihan model adalah inti dari proyek machine learning yang melibatkan pembuatan dan optimasi model untuk menghasilkan prediksi berdasarkan data. Berbagai algoritma dapat digunakan, dari regresi linier hingga jaringan saraf dalam.
